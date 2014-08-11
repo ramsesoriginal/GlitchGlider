@@ -24,3 +24,5 @@ WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state 
 WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
 Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'HeatDistort' - Pass 'BASE' shader state not supported
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\System.dll (this message is harmless)
