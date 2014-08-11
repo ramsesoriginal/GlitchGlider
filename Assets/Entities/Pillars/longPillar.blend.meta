@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: cbb93deef53c2674da92c82af6333091
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Base
+    100002: BottomTop
+    100004: End
+    100006: Filler
+    100008: LongPart
+    100010: //RootNode
+    100012: MidRingAfterRight
+    100014: RightLong
+    100016: Ring
+    100018: Ring2
+    100020: TopRing1
+    100022: Base_001
+    100024: BottomTop_001
+    100026: Filler_001
+    100028: LongPart_001
+    100030: MidRingAfterRight_001
+    100032: Ring2_001
+    100034: Ring_001
+    100036: TopRing1_001
+    400000: Base
+    400002: BottomTop
+    400004: End
+    400006: Filler
+    400008: LongPart
+    400010: //RootNode
+    400012: MidRingAfterRight
+    400014: RightLong
+    400016: Ring
+    400018: Ring2
+    400020: TopRing1
+    400022: Base_001
+    400024: BottomTop_001
+    400026: Filler_001
+    400028: LongPart_001
+    400030: MidRingAfterRight_001
+    400032: Ring2_001
+    400034: Ring_001
+    400036: TopRing1_001
+    2300000: Base
+    2300002: BottomTop
+    2300004: End
+    2300006: Filler
+    2300008: LongPart
+    2300010: MidRingAfterRight
+    2300012: RightLong
+    2300014: Ring
+    2300016: Ring2
+    2300018: TopRing1
+    2300020: Base_001
+    2300022: BottomTop_001
+    2300024: Filler_001
+    2300026: LongPart_001
+    2300028: MidRingAfterRight_001
+    2300030: Ring2_001
+    2300032: Ring_001
+    2300034: TopRing1_001
+    3300000: Base
+    3300002: BottomTop
+    3300004: End
+    3300006: Filler
+    3300008: LongPart
+    3300010: MidRingAfterRight
+    3300012: RightLong
+    3300014: Ring
+    3300016: Ring2
+    3300018: TopRing1
+    3300020: Base_001
+    3300022: BottomTop_001
+    3300024: Filler_001
+    3300026: LongPart_001
+    3300028: MidRingAfterRight_001
+    3300030: Ring2_001
+    3300032: Ring_001
+    3300034: TopRing1_001
+    4300000: MidRingAfterRight
+    4300002: RightLong
+    4300004: End
+    4300006: Ring2
+    4300008: Filler
+    4300010: TopRing1
+    4300012: LongPart
+    4300014: BottomTop
+    4300016: Ring
+    4300018: Base
+    4300020: Base_001
+    4300022: Ring_001
+    4300024: BottomTop_001
+    4300026: LongPart_001
+    4300028: TopRing1_001
+    4300030: Filler_001
+    4300032: Ring2_001
+    4300034: MidRingAfterRight_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -16,7 +16,11 @@ Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Dat
 Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.096 seconds
+- Completed reload, in  0.043 seconds
 desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Boo.Lang.dll (this message is harmless)
