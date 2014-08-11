@@ -10,6 +10,9 @@ namespace IngameGUI {
 
 		// Use this for initialization
 		void Start () {
+			if (course == null) {
+				course = (Course.CourseCounter)GameObject.FindWithTag("course").GetComponent<Course.CourseCounter>();
+			}
 			text = (TextMesh) GetComponent<TextMesh> ();
 		}
 		

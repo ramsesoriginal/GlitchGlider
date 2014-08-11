@@ -11,6 +11,15 @@ namespace Glider {
 		
 		// Update is called once per frame
 		void OnCollisionEnter () {
+			if (CameraPosition == null) {
+				CameraPosition = GameObject.FindWithTag("CameraTarget");
+			}
+			if (CameraTarget == null) {
+				CameraTarget = GameObject.FindWithTag("CameraLookAtTarget");
+			}
+			if (glitch == null) {
+				glitch = (GlitchEffect)GameObject.FindWithTag("MainCamera").GetComponent<GlitchEffect>();
+			}
 			var exPlayer = new GameObject ();
 			exPlayer.transform.position = transform.position;
 			exPlayer.transform.rotation = transform.rotation;

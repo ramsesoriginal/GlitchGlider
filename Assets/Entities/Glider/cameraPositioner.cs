@@ -8,6 +8,12 @@ namespace Glider {
 		
 		// Update is called once per frame
 		void Update () {
+			if (target == null) {
+				target = GameObject.FindWithTag("CameraTarget").transform;
+			}
+			if (player == null) {
+				player = GameObject.FindWithTag("CameraLookAtTarget").transform;
+			}
 			var targetPos = target.position;
 			RaycastHit hit;
 			if (Physics.Raycast(targetPos, Vector3.down, out hit)) {
