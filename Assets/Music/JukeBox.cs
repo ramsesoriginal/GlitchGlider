@@ -7,7 +7,7 @@ namespace Music {
 		public AudioClip[] selection;
 
 		private AudioSource source;
-		private int currentsong;
+		public int currentsong;
 
 		void Start() {
 			source = (AudioSource) GetComponent<AudioSource>();
@@ -17,14 +17,14 @@ namespace Music {
 
 		// Update is called once per frame
 		void Update () {
-			if (!source.isPlaying) {
+			if (!source.isPlaying || Input.GetButtonDown("NextSong")) {
 				skip ();
 			}
 		}
 
 		void skip() {
 			source.Stop ();
-			currentsong = (currentsong + 1) & selection.Length;
+			currentsong = (currentsong + 1) % selection.Length;
 			source.clip = selection[currentsong];
 			source.Play();
 		}
