@@ -27,6 +27,9 @@ namespace Glider {
 				speed = minSpeed;
 			if (speed > maxSpeed)
 				speed = maxSpeed;
+		}
+
+		void FixedUpdate() {
 			rigidbody.AddForce(transform.forward * speed * 1000,ForceMode.Acceleration);
 		}
 	}
