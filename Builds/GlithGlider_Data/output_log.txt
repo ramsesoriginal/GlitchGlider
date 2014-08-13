@@ -16,7 +16,7 @@ Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Dat
 Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.046 seconds
+- Completed reload, in  0.045 seconds
 desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.

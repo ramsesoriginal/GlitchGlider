@@ -24,9 +24,14 @@ namespace Course {
 		
 		// Update is called once per frame
 		void Update () {
-			missing = ((Gate.Passer[])GetComponentsInChildren<Gate.Passer> ()).Length;
-			done = count - missing;
-			time = Time.time - startTime;
+			if (missing == 0) {
+				Time.timeScale = 0.1f;
+			} else {
+				missing = ((Gate.Passer[])GetComponentsInChildren<Gate.Passer> ()).Length;
+				done = count - missing;
+				time = Time.time - startTime;
+			}
+
 		}
 	}
 }
