@@ -21,10 +21,12 @@ namespace Glider {
 				glitch = (GlitchEffect)GameObject.FindWithTag("MainCamera").GetComponent<GlitchEffect>();
 			}
 			var exPlayer = new GameObject ();
+			exPlayer.tag = "Player";
 			exPlayer.transform.position = transform.position;
 			exPlayer.transform.rotation = transform.rotation;
 			exPlayer.transform.parent = transform.parent;
 			var explosionClone = (GameObject)Instantiate (explosion, exPlayer.transform.position, exPlayer.transform.rotation);
+			explosionClone.tag = "PlayerDead";
 			explosionClone.transform.parent = exPlayer.transform;
 			CameraPosition.transform.parent = exPlayer.transform;
 			CameraTarget.transform.parent = exPlayer.transform;
