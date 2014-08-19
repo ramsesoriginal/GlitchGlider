@@ -6,6 +6,7 @@ Direct3D:
     Vendor:   Intel
     VRAM:     96 MB
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Platform assembly: C:\Users\ivo\Documents\GitHub\GlitchGlider\Builds\GlithGlider_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\ivo\Documents\GitHub\GlitchGlider\Builds\GlithGlider_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\ivo\Documents\GitHub\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
@@ -18,6 +19,20 @@ Platform assembly: C:\Users\ivo\Documents\GitHub\GlitchGlider\Builds\GlithGlider
 Loading C:\Users\ivo\Documents\GitHub\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 - Completed reload, in  0.737 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+=======
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ramses\Documents\GlitchGlider\Builds\GlithGlider_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
+>>>>>>> origin/master
 <RI> Initializing input.
 <RI> Input initialized.
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
